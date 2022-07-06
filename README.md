@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Link: https://friendintouch.herokuapp.com/
 
-Things you may want to cover:
+A user friendly add friend list app. 
 
-* Ruby version
+A Ruby on Rails Friend App 
+reference by freeCodeCamp.org
+Link: https://www.youtube.com/watch?v=fmyvWz5TUWg
 
-* System dependencies
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
